@@ -58,7 +58,7 @@ Today, security has become the most important thing to be considered. People nee
 
 ## Testing
 
-[PDF document Group_4_Automatic_Door_Lock_System_test_plan.pdf](-----------------------------------)
+[PDF document Group_4_Automatic_Door_Lock_System_test_plan.pdf](Group_4_Automatic_Door_Lock_System_test_plan.pdf)
 
 
 ## Conclusion
