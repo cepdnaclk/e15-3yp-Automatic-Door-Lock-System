@@ -8,9 +8,9 @@ title: Automatic Door Lock System
 
 ---
 ## Team
--  E/15/119, D.L. D. Hasanika, [e15119@eng.pdn.ac.lk](mailto:e15119@eng.pdn.ac.lk)
--  E/15/202, D.P. Liyanage, [e15202@eng.pdn.ac.lk](mailto:e15202@eng.pdn.ac.lk)
--  E/15/208, G.G.R. D. Madhushani, [e15208@eng.pdn.ac.lk](mailto:e15208@eng.pdn.ac.lk)
+-  E/15/119, D.L. D. Hasanika, [dinithiliyanage.95@gmail.com](mailto:dinithiliyanage.95@gmail.com)
+-  E/15/202, D.P. Liyanage, [preethi.du1995@gmail.com](mailto:preethi.du1995@gmail.com)
+-  E/15/208, G.G.R. D. Madhushani, [roshanidilhara7@gmail.com](mailto:roshanidilhara7@gmail.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
